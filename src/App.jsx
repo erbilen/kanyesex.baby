@@ -131,7 +131,7 @@ function App() {
                     </CardsTiltWrapper>
 
                     <footer className="footer">
-                        <p>© 2026 nethra</p>
+                        <p>© nethra</p>
                     </footer>
                 </div>
                 <div className={`page-content team-section ${showTeam ? 'active' : ''}`}>
@@ -144,5 +144,6 @@ function App() {
 
 
 export default App
+
 
 
