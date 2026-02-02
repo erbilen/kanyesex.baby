@@ -11,7 +11,7 @@ import videoFile from './assets/video.mp4'
 import CustomCursor from './components/CustomCursor'
 
 
-const MY_DISCORD_ID = "669612175186329661";
+const MY_DISCORD_ID = "1287495276633784394";
 
 function App() {
     const [hasEntered, setHasEntered] = useState(false)
@@ -141,5 +141,6 @@ function App() {
         </>
     )
 }
+
 
 export default App
