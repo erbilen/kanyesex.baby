@@ -4,16 +4,16 @@ const ProfileCard = () => {
     const [views] = useState(653)
 
     const profile = {
-        name: 'nethra',
-        bio: 'herbokolog',
+        name: 'yeezy',
+        bio: 'yılmaz iyi adam',
         avatar: 'https://cdn.discordapp.com/avatars/1287495276633784394/88b7f479a4fe5d51a24179aa63324118.webp?size=256',
         status: 'online'
     }
 
     const socialLinks = [
-        { name: 'Instagram', icon: 'fab fa-instagram', url: 'https://instagram.com/erbiilen', className: 'instagram' },
-        { name: 'TikTok', icon: 'fab fa-tiktok', url: 'https://www.tiktok.com/@erbiilen', className: 'tiktok' },
-        { name: 'Spotify', icon: 'fab fa-spotify', url: 'https://open.spotify.com/user/bj2va3tgoy7niuguts0c4mu1g?si=b810ad7445724180', className: 'spotify' },
+        { name: 'Instagram', icon: 'fab fa-instagram', url: 'https://instagram.com/akgulyilmax', className: 'instagram' },
+        { name: 'TikTok', icon: 'fab fa-tiktok', url: 'https://www.tiktok.com/@akgulj', className: 'tiktok' },
+        { name: 'Spotify', icon: 'fab fa-spotify', url: 'https://open.spotify.com/user/d1xmg3t1g5l5gbgjui4jlxho2?si=d82925aa622c45ec', className: 'spotify' },
     ]
 
     return (
@@ -86,4 +86,5 @@ const ProfileCard = () => {
 }
 
 export default ProfileCard
+
 
