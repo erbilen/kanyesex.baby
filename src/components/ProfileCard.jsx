@@ -12,7 +12,7 @@ const ProfileCard = () => {
 
     const socialLinks = [
         { name: 'Instagram', icon: 'fab fa-instagram', url: 'https://instagram.com/akgulyilmax', className: 'instagram' },
-        { name: 'TikTok', icon: 'fab fa-tiktok', url: 'https://www.tiktok.com/@akgulj', className: 'tiktok' },
+        { name: 'TikTok', icon: 'fab fa-tiktok', url: 'https://www.tiktok.com/@anxcva1', className: 'tiktok' },
         { name: 'Spotify', icon: 'fab fa-spotify', url: 'https://open.spotify.com/user/d1xmg3t1g5l5gbgjui4jlxho2?si=d82925aa622c45ec', className: 'spotify' },
     ]
 
@@ -86,5 +86,6 @@ const ProfileCard = () => {
 }
 
 export default ProfileCard
+
 
 
