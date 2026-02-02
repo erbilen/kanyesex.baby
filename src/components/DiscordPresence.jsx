@@ -66,12 +66,12 @@ const DiscordPresence = ({ userId }) => {
 
 
 
- const getUserBadges = () => {
+const getUserBadges = () => {
     const badges = []
 
     if (discord_user.booster) {
-        badges.push('booster')
-        badges.push('nitro') 
+        badges.push('nitro')  
+        badges.push('booster') 
     }
 
     return badges
@@ -153,6 +153,7 @@ const DiscordPresence = ({ userId }) => {
 
 
 export default DiscordPresence
+
 
 
 
