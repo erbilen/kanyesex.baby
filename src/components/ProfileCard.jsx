@@ -6,7 +6,7 @@ const ProfileCard = () => {
     const profile = {
         name: 'nethra',
         bio: 'herbokolog',
-        avatar: 'https://cdn.discordapp.com/avatars/669612175186329661/89882f4b930c835154259df87b227211.png?size=256',
+        avatar: 'https://cdn.discordapp.com/avatars/1287495276633784394/88b7f479a4fe5d51a24179aa63324118.webp?size=256',
         status: 'online'
     }
 
@@ -86,3 +86,4 @@ const ProfileCard = () => {
 }
 
 export default ProfileCard
+
